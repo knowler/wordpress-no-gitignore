@@ -11,5 +11,5 @@
 /wp-content/uploads/*
 
 # Plugins
-/wp-content/plugins
+/wp-content/plugins/*/
 !/wp-content/plugins/index.php
