@@ -1,0 +1,11 @@
+# Database files
+*.sql
+
+# Log files
+*.log
+
+# Environment specific configuration and secrets
+/wp-config.php
+
+# Uploads
+/wp-content/uploads/*
